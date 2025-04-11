@@ -1,4 +1,4 @@
-# 🦺 HSE Expert Chatbot — Fine-Tuning DeepSeek R1 with LoRA & Unsloth
+# HSE Expert Chatbot — Fine-Tuning DeepSeek R1 with LoRA & Unsloth
 
 This project fine-tunes the [`DeepSeek R1`](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B) language model to act as an expert in **Health, Safety, and Environment (HSE)** topics.
 
@@ -12,7 +12,7 @@ It uses **parameter-efficient fine-tuning** with **LoRA** via the [Unsloth](http
 
 ---
 
-## 📌 Project Details
+## Project Details
 
 - **Base Model**: [`deepseek-ai/DeepSeek-V2`](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B)
 - **Fine-tuning Method**: LoRA (Low-Rank Adaptation)
@@ -22,7 +22,7 @@ It uses **parameter-efficient fine-tuning** with **LoRA** via the [Unsloth](http
 
 ---
 
-## 📂 Files
+## Files
 
 ```bash
 .
